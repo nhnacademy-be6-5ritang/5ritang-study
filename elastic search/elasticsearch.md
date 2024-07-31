@@ -90,16 +90,6 @@ elasticsearch.password: "생성된_kibana_system_비밀번호"
 
 브라우저에서 [http://133.186.134.30:5601/](http://133.186.134.30:5601/) 에 접속하면 로그인 화면이 나타납니다. 'elastic' 사용자와 해당 비밀번호로 로그인할 수 있습니다.
 
-## 비밀번호 목록
-
-- **apm_system**: `xuj2OvH2i2gJODoCWLkI`
-- **kibana_system**: `VxEbkQmrtqjFF8narbN4`
-- **kibana**: `VxEbkQmrtqjFF8narbN4`
-- **logstash_system**: `EV7RgBCzNPnymFX0Jz6p`
-- **beats_system**: `Ypos5SXtkAa0bBAdHKNI`
-- **remote_monitoring_user**: `Z27nB7a3YlV5wi3Ibar7`
-- **elastic**: `mlEkmDZuSVApIYg3a9Qy`
-
 ## Elasticsearch 인덱스 확인
 
 - 인덱스 목록 확인:
