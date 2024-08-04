@@ -1,6 +1,6 @@
 # Log & Crash Search
 
-Log & Crash Search는 클라이언트와 서버의 로그를 수집하여 원하는 로그를 검색하고 조회하는 시스템입니다. 모바일 앱에서 발생하는 크래시를 분석하고 통계 작업을 수행하여 크래시 발생 원인에 대한 다양한 정보도 제공합니다.
+Log & Crash Search 는 클라이언트와 서버의 로그를 수집하여 원하는 로그를 검색하고 조회하는 시스템입니다. 모바일 앱에서 발생하는 크래시를 분석하고 통계 작업을 수행하여 크래시 발생 원인에 대한 다양한 정보도 제공합니다.
 
 ---
 ## Log & Crash Search 특·장점
@@ -12,7 +12,7 @@ Log & Crash Search는 클라이언트와 서버의 로그를 수집하여 원하
 - **`서비스 연속성`**: 사용량 증가에 따른 로그량이 증가하더라도 서비스 정지 없이 이용 가능합니다.
 - **`다양한 지원 환경`**: 오류, 크래시 덤프, 웹 어플리케이션 로그, 커스텀 메시지 형식 등을 지원하며, Windows, Linux와 Java 환경에서 사용 가능합니다.
 
-https://docs.nhncloud.com/ko/Data%20&%20Analytics/Log%20&%20Crash%20Search/ko/Overview/
+출처: https://docs.nhncloud.com/ko/Data%20&%20Analytics/Log%20&%20Crash%20Search/ko/Overview/
 
 ---
 # 기본 파라미터
@@ -44,7 +44,7 @@ https://docs.nhncloud.com/ko/Data%20&%20Analytics/Log%20&%20Crash%20Search/ko/Ov
 - **`logLevel`**: `string`, 옵션  
   [in] Syslog 이벤트용.
 
-https://docs.nhncloud.com/ko/Data%20&%20Analytics/Log%20&%20Crash%20Search/ko/api-guide/
+출처: https://docs.nhncloud.com/ko/Data%20&%20Analytics/Log%20&%20Crash%20Search/ko/api-guide/
 
 ---
 # 예제

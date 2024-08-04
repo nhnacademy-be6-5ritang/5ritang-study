@@ -1,5 +1,5 @@
 # WYSIWYG Editor
-WYSIWYG은 “What You See Is What You Get”의 약자로, 사용자가 문서나 웹 페이지를 편집할 때 실제 출력물(예: 브라우저에 표시될 웹 페이지)과 동일하게 보이는 방식으로 편집할 수 있는 환경을 의미합니다. WYSIWYG 편집기는 비전문가도 복잡한 형식의 문서나 웹 페이지를 쉽게 만들 수 있도록 도와줍니다.
+WYSIWYG 은 “What You See Is What You Get”의 약자로, 사용자가 문서나 웹 페이지를 편집할 때 실제 출력물(예: 브라우저에 표시될 웹 페이지)과 동일하게 보이는 방식으로 편집할 수 있는 환경을 의미합니다. WYSIWYG 편집기는 비전문가도 복잡한 형식의 문서나 웹 페이지를 쉽게 만들 수 있도록 도와줍니다.
 
 ---
 # Toast UI Editor 3.0 사용
@@ -31,8 +31,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ---
 - UI
-![wysiwyg-editor.png](../photos/wysiwyg-editor.png)
+![toast-ui-editor-3.png](../photos/toast-ui-editor-3.png)
 
 
 - 실제 출력
-![wysiwyg-editor-test.png](../photos/wysiwyg-editor-test.png)
+![toast-ui-editor-3-test.png](../photos/toast-ui-editor-3-test.png)
